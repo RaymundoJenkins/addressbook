@@ -1,0 +1,19 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.1
+
+
+[0]
+name="Stanley Donnelly"
+email="basil@example.org,test@test.com
+mobile="+24819578338284"
+nick=""
+notes="aspernatur eos porro eaque modi perferendis aut animi qui culpa sapiente eum"
+anniversary="1981-09-16"
+groups=""
+custom1="ede09e5ddcf86e4cbc3fcce03cfbb0afd0e6a3fb"
+custom2="955ededa4d0051113e03d83a8f6b9774"
+custom3="afd061f1ddc025921c18fec99636e235f8512eb773315c9a5fd09d0df0a0ada3"
+
